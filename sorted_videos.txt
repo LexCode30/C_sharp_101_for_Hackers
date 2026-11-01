@@ -1,0 +1,61 @@
+# C sharp 101 for Hackers
+
+1. Welcome  [s1.html]
+    001. Welcome to the Course  ->  https://drive.google.com/file/d/11XCjzGJ8NQZmxWPZ_mhai9Vh8Tf-iZBV/preview
+
+2. Introduction  [s2.html]
+    001. Learning C  ->  https://drive.google.com/file/d/105-ZodxPat3jt6ZJvN6ccHU9nW_mDtCt/preview
+    002. Python vs. C  ->  https://drive.google.com/file/d/11KRmpbgpJu1NeVRs2gx_VfsXtshLIa2c/preview
+    003. History of .NET and C  ->  https://drive.google.com/file/d/10Tr0n8hanYv1MqT4X-orz3R9JU4wdnZY/preview
+
+3. Environment Setup  [s3.html]
+    001. Why Kali Linux  ->  https://drive.google.com/file/d/1-wEIk16l7mlyfDeWfgZKex2Ez1bW_D4y/preview
+    002. Setting up our Dev Environment  ->  https://drive.google.com/file/d/1-gLRSGKa4-riJarXguRykGmYGHnkO3TB/preview
+    003. VS Code Extensions  ->  https://drive.google.com/file/d/10iAiEqNZ917zp2fWEDYiOSKBi8DSx9_-/preview
+    004. Writing Hello World Part 1  ->  https://drive.google.com/file/d/1-az29Y4oPJrV79A3nKcRbdQ-cEpmtuLK/preview
+    005. Writing Hello World Part 2  ->  https://drive.google.com/file/d/1-Wk63bcCjAtOPf9RUosAttOOUZs0jhHw/preview
+    006. Writing Hello World Part 3  ->  https://drive.google.com/file/d/11LU_0YCwRPruO9x-4Kiive4crk9wlgyL/preview
+    007. Polyglot Notebooks  ->  https://drive.google.com/file/d/1040i5WRq3KFZ4Cl8VkCUDJETjjaPc5H2/preview
+
+4. C# Basics  [s4.html]
+    001. Introduction  ->  https://drive.google.com/file/d/10WCbP6T8dA88ff67hky2Dg2JZCYwwZG-/preview
+    002. NET CLI  ->  https://drive.google.com/file/d/119P16j04Owt7P1U4XbLfR6Uwr7gn9l-X/preview
+    003. C Structure & Syntax Part 1  ->  https://drive.google.com/file/d/10aOIl1sXlvB-UGhKUGb_mlfMdTO8tiWb/preview
+    004. C Structure & Syntax Part 2  ->  https://drive.google.com/file/d/101RYuQ43GSyWbgyp-F7i70TodoE0vDlR/preview
+
+5. Working with Data  [s5.html]
+    001. Working with Data  ->  https://drive.google.com/file/d/11HB8FU3D1dJQ0FYd4c4mrRqyp6SQJUe6/preview
+    002. Variables  ->  https://drive.google.com/file/d/1-6AZz8XhpCtVIP_kiBlyyAvWikdFFILo/preview
+    003. Strings  ->  https://drive.google.com/file/d/11Mo71kUMKcdR2vutl5efLu2_yQifVr0B/preview
+    004. Casting & Converting Data  ->  https://drive.google.com/file/d/114K2xWkmbPOkMlRTa2vlxucFlzXlam2I/preview
+    005. Value vs Reference Types  ->  https://drive.google.com/file/d/11-A5kbZxbX-82cZzHXcctVqbyCwyculE/preview
+    006. Console Input & Output  ->  https://drive.google.com/file/d/11DygUiUcYn0c0ep6llgHK2jVqSY_EX-0/preview
+
+6. Programming Logic  [s6.html]
+    001. Operators & Assignments  ->  https://drive.google.com/file/d/10o7w1v3RoCtZTUfIIq-wHjn4NFMmcBgB/preview
+    002. Flow Conditions - Part 1  ->  https://drive.google.com/file/d/1-kP5XVPHZWM23i2suvVuMxiAdwg9hlB-/preview
+    003. Flow Conditions - Part 2  ->  https://drive.google.com/file/d/1-E2Sbe22qkgg8CqGiKH3FZvBWNW3fnPQ/preview
+    004. Flow Conditions - Part 3  ->  https://drive.google.com/file/d/10ivz9n-HxieoYTFAoevFr7kkMRBjeNv0/preview
+    005. Flow Conditions - Part 4  ->  https://drive.google.com/file/d/10fLAoaPQyfoyk2JOsnbvZ0quQAqc2_bH/preview
+    006. Flow Conditions - Part 5  ->  https://drive.google.com/file/d/10B2P4yY15rox3SlxdmRn5ZPTbto1Ws2V/preview
+    007. Loops  ->  https://drive.google.com/file/d/1-kHjeGIlNtDXBSr9Imt95U191vmzOWZU/preview
+    008. Debugging Your Code  ->  https://drive.google.com/file/d/10D5h2O9ln5Ye971u1bgJ46-uBApXR8Ge/preview
+
+7. Data Handling File I O Collections and Web Interactions  [s7.html]
+    001. File I-O  ->  https://drive.google.com/file/d/10yULA8kqUV5yzU5hiUHl9fqV7go7dgdg/preview
+    002. Collections  ->  https://drive.google.com/file/d/11YvFicU6-akb2x3-m2iHo-Xc1_uUu0cD/preview
+    003. Building a Deck of Cards  ->  https://drive.google.com/file/d/11LUcBQXOKrPlHgCZBUzOgcdUt9P2w2xb/preview
+    004. Working with the Internet  ->  https://drive.google.com/file/d/11UvJSr1KKCECp_QI4zqw9C6xOa6T6H8m/preview
+
+8. Asynchronous & Parallel Programming Concepts  [s8.html]
+    001. Async - Await & Parallel Programming  ->  https://drive.google.com/file/d/10T0SkOXTHiqXnEziQzPJF22YQ6NxwjH9/preview
+    002. Building a Port Scanner  ->  https://drive.google.com/file/d/10tl9xsfoVmJpmDBgA470DxZh57RkkMYt/preview
+
+9. Capstone Project - Brute-Force Password Cracker  [s9.html]
+    001. Capstone Overview & Requirements  ->  https://drive.google.com/file/d/105xbDu_3RSP5sILLg4unfDD2YifLop8s/preview
+    002. Capstone Solution - Part 1  ->  https://drive.google.com/file/d/1-E-0ak6T4G5iZI9Vg5ZRPgvMEKvFJerh/preview
+    003. Capstone Solution - Part 2  ->  https://drive.google.com/file/d/10e-NVksLf5g0dDlrItF13LzNmmQuGr85/preview
+
+10. Wrap Up  [s10.html]
+    001. Recap  ->  https://drive.google.com/file/d/10KVBrftik1MMEmvmlseUfn5ZNEetkv-1/preview
+    002. Thank you & Dedication  ->  https://drive.google.com/file/d/11Vs84KyqzUodFJZgBkmekCg2wQLtSUB2/preview

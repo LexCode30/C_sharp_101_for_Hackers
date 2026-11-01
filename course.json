@@ -1,0 +1,359 @@
+{
+  "name": "C sharp 101 for Hackers",
+  "slug": "C_sharp_101_for_Hackers",
+  "url": "https://LexCode30.github.io/C_sharp_101_for_Hackers/",
+  "category": "programming",
+  "generator": "7.0",
+  "chapters": [
+    {
+      "number": 1,
+      "title": "Welcome",
+      "page": "s1.html",
+      "videos": [
+        {
+          "number": 1,
+          "title": "Welcome to the Course",
+          "id": "11XCjzGJ8NQZmxWPZ_mhai9Vh8Tf-iZBV",
+          "anchor": "v-11XCjzGJ8NQZmxWPZ_mhai9Vh8Tf-iZBV",
+          "href": "s1.html#v-11XCjzGJ8NQZmxWPZ_mhai9Vh8Tf-iZBV"
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "title": "Introduction",
+      "page": "s2.html",
+      "videos": [
+        {
+          "number": 1,
+          "title": "Learning C",
+          "id": "105-ZodxPat3jt6ZJvN6ccHU9nW_mDtCt",
+          "anchor": "v-105-ZodxPat3jt6ZJvN6ccHU9nW_mDtCt",
+          "href": "s2.html#v-105-ZodxPat3jt6ZJvN6ccHU9nW_mDtCt"
+        },
+        {
+          "number": 2,
+          "title": "Python vs. C",
+          "id": "11KRmpbgpJu1NeVRs2gx_VfsXtshLIa2c",
+          "anchor": "v-11KRmpbgpJu1NeVRs2gx_VfsXtshLIa2c",
+          "href": "s2.html#v-11KRmpbgpJu1NeVRs2gx_VfsXtshLIa2c"
+        },
+        {
+          "number": 3,
+          "title": "History of .NET and C",
+          "id": "10Tr0n8hanYv1MqT4X-orz3R9JU4wdnZY",
+          "anchor": "v-10Tr0n8hanYv1MqT4X-orz3R9JU4wdnZY",
+          "href": "s2.html#v-10Tr0n8hanYv1MqT4X-orz3R9JU4wdnZY"
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "title": "Environment Setup",
+      "page": "s3.html",
+      "videos": [
+        {
+          "number": 1,
+          "title": "Why Kali Linux",
+          "id": "1-wEIk16l7mlyfDeWfgZKex2Ez1bW_D4y",
+          "anchor": "v-1-wEIk16l7mlyfDeWfgZKex2Ez1bW_D4y",
+          "href": "s3.html#v-1-wEIk16l7mlyfDeWfgZKex2Ez1bW_D4y"
+        },
+        {
+          "number": 2,
+          "title": "Setting up our Dev Environment",
+          "id": "1-gLRSGKa4-riJarXguRykGmYGHnkO3TB",
+          "anchor": "v-1-gLRSGKa4-riJarXguRykGmYGHnkO3TB",
+          "href": "s3.html#v-1-gLRSGKa4-riJarXguRykGmYGHnkO3TB"
+        },
+        {
+          "number": 3,
+          "title": "VS Code Extensions",
+          "id": "10iAiEqNZ917zp2fWEDYiOSKBi8DSx9_-",
+          "anchor": "v-10iAiEqNZ917zp2fWEDYiOSKBi8DSx9_-",
+          "href": "s3.html#v-10iAiEqNZ917zp2fWEDYiOSKBi8DSx9_-"
+        },
+        {
+          "number": 4,
+          "title": "Writing Hello World Part 1",
+          "id": "1-az29Y4oPJrV79A3nKcRbdQ-cEpmtuLK",
+          "anchor": "v-1-az29Y4oPJrV79A3nKcRbdQ-cEpmtuLK",
+          "href": "s3.html#v-1-az29Y4oPJrV79A3nKcRbdQ-cEpmtuLK"
+        },
+        {
+          "number": 5,
+          "title": "Writing Hello World Part 2",
+          "id": "1-Wk63bcCjAtOPf9RUosAttOOUZs0jhHw",
+          "anchor": "v-1-Wk63bcCjAtOPf9RUosAttOOUZs0jhHw",
+          "href": "s3.html#v-1-Wk63bcCjAtOPf9RUosAttOOUZs0jhHw"
+        },
+        {
+          "number": 6,
+          "title": "Writing Hello World Part 3",
+          "id": "11LU_0YCwRPruO9x-4Kiive4crk9wlgyL",
+          "anchor": "v-11LU_0YCwRPruO9x-4Kiive4crk9wlgyL",
+          "href": "s3.html#v-11LU_0YCwRPruO9x-4Kiive4crk9wlgyL"
+        },
+        {
+          "number": 7,
+          "title": "Polyglot Notebooks",
+          "id": "1040i5WRq3KFZ4Cl8VkCUDJETjjaPc5H2",
+          "anchor": "v-1040i5WRq3KFZ4Cl8VkCUDJETjjaPc5H2",
+          "href": "s3.html#v-1040i5WRq3KFZ4Cl8VkCUDJETjjaPc5H2"
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "title": "C# Basics",
+      "page": "s4.html",
+      "videos": [
+        {
+          "number": 1,
+          "title": "Introduction",
+          "id": "10WCbP6T8dA88ff67hky2Dg2JZCYwwZG-",
+          "anchor": "v-10WCbP6T8dA88ff67hky2Dg2JZCYwwZG-",
+          "href": "s4.html#v-10WCbP6T8dA88ff67hky2Dg2JZCYwwZG-"
+        },
+        {
+          "number": 2,
+          "title": "NET CLI",
+          "id": "119P16j04Owt7P1U4XbLfR6Uwr7gn9l-X",
+          "anchor": "v-119P16j04Owt7P1U4XbLfR6Uwr7gn9l-X",
+          "href": "s4.html#v-119P16j04Owt7P1U4XbLfR6Uwr7gn9l-X"
+        },
+        {
+          "number": 3,
+          "title": "C Structure & Syntax Part 1",
+          "id": "10aOIl1sXlvB-UGhKUGb_mlfMdTO8tiWb",
+          "anchor": "v-10aOIl1sXlvB-UGhKUGb_mlfMdTO8tiWb",
+          "href": "s4.html#v-10aOIl1sXlvB-UGhKUGb_mlfMdTO8tiWb"
+        },
+        {
+          "number": 4,
+          "title": "C Structure & Syntax Part 2",
+          "id": "101RYuQ43GSyWbgyp-F7i70TodoE0vDlR",
+          "anchor": "v-101RYuQ43GSyWbgyp-F7i70TodoE0vDlR",
+          "href": "s4.html#v-101RYuQ43GSyWbgyp-F7i70TodoE0vDlR"
+        }
+      ]
+    },
+    {
+      "number": 5,
+      "title": "Working with Data",
+      "page": "s5.html",
+      "videos": [
+        {
+          "number": 1,
+          "title": "Working with Data",
+          "id": "11HB8FU3D1dJQ0FYd4c4mrRqyp6SQJUe6",
+          "anchor": "v-11HB8FU3D1dJQ0FYd4c4mrRqyp6SQJUe6",
+          "href": "s5.html#v-11HB8FU3D1dJQ0FYd4c4mrRqyp6SQJUe6"
+        },
+        {
+          "number": 2,
+          "title": "Variables",
+          "id": "1-6AZz8XhpCtVIP_kiBlyyAvWikdFFILo",
+          "anchor": "v-1-6AZz8XhpCtVIP_kiBlyyAvWikdFFILo",
+          "href": "s5.html#v-1-6AZz8XhpCtVIP_kiBlyyAvWikdFFILo"
+        },
+        {
+          "number": 3,
+          "title": "Strings",
+          "id": "11Mo71kUMKcdR2vutl5efLu2_yQifVr0B",
+          "anchor": "v-11Mo71kUMKcdR2vutl5efLu2_yQifVr0B",
+          "href": "s5.html#v-11Mo71kUMKcdR2vutl5efLu2_yQifVr0B"
+        },
+        {
+          "number": 4,
+          "title": "Casting & Converting Data",
+          "id": "114K2xWkmbPOkMlRTa2vlxucFlzXlam2I",
+          "anchor": "v-114K2xWkmbPOkMlRTa2vlxucFlzXlam2I",
+          "href": "s5.html#v-114K2xWkmbPOkMlRTa2vlxucFlzXlam2I"
+        },
+        {
+          "number": 5,
+          "title": "Value vs Reference Types",
+          "id": "11-A5kbZxbX-82cZzHXcctVqbyCwyculE",
+          "anchor": "v-11-A5kbZxbX-82cZzHXcctVqbyCwyculE",
+          "href": "s5.html#v-11-A5kbZxbX-82cZzHXcctVqbyCwyculE"
+        },
+        {
+          "number": 6,
+          "title": "Console Input & Output",
+          "id": "11DygUiUcYn0c0ep6llgHK2jVqSY_EX-0",
+          "anchor": "v-11DygUiUcYn0c0ep6llgHK2jVqSY_EX-0",
+          "href": "s5.html#v-11DygUiUcYn0c0ep6llgHK2jVqSY_EX-0"
+        }
+      ]
+    },
+    {
+      "number": 6,
+      "title": "Programming Logic",
+      "page": "s6.html",
+      "videos": [
+        {
+          "number": 1,
+          "title": "Operators & Assignments",
+          "id": "10o7w1v3RoCtZTUfIIq-wHjn4NFMmcBgB",
+          "anchor": "v-10o7w1v3RoCtZTUfIIq-wHjn4NFMmcBgB",
+          "href": "s6.html#v-10o7w1v3RoCtZTUfIIq-wHjn4NFMmcBgB"
+        },
+        {
+          "number": 2,
+          "title": "Flow Conditions - Part 1",
+          "id": "1-kP5XVPHZWM23i2suvVuMxiAdwg9hlB-",
+          "anchor": "v-1-kP5XVPHZWM23i2suvVuMxiAdwg9hlB-",
+          "href": "s6.html#v-1-kP5XVPHZWM23i2suvVuMxiAdwg9hlB-"
+        },
+        {
+          "number": 3,
+          "title": "Flow Conditions - Part 2",
+          "id": "1-E2Sbe22qkgg8CqGiKH3FZvBWNW3fnPQ",
+          "anchor": "v-1-E2Sbe22qkgg8CqGiKH3FZvBWNW3fnPQ",
+          "href": "s6.html#v-1-E2Sbe22qkgg8CqGiKH3FZvBWNW3fnPQ"
+        },
+        {
+          "number": 4,
+          "title": "Flow Conditions - Part 3",
+          "id": "10ivz9n-HxieoYTFAoevFr7kkMRBjeNv0",
+          "anchor": "v-10ivz9n-HxieoYTFAoevFr7kkMRBjeNv0",
+          "href": "s6.html#v-10ivz9n-HxieoYTFAoevFr7kkMRBjeNv0"
+        },
+        {
+          "number": 5,
+          "title": "Flow Conditions - Part 4",
+          "id": "10fLAoaPQyfoyk2JOsnbvZ0quQAqc2_bH",
+          "anchor": "v-10fLAoaPQyfoyk2JOsnbvZ0quQAqc2_bH",
+          "href": "s6.html#v-10fLAoaPQyfoyk2JOsnbvZ0quQAqc2_bH"
+        },
+        {
+          "number": 6,
+          "title": "Flow Conditions - Part 5",
+          "id": "10B2P4yY15rox3SlxdmRn5ZPTbto1Ws2V",
+          "anchor": "v-10B2P4yY15rox3SlxdmRn5ZPTbto1Ws2V",
+          "href": "s6.html#v-10B2P4yY15rox3SlxdmRn5ZPTbto1Ws2V"
+        },
+        {
+          "number": 7,
+          "title": "Loops",
+          "id": "1-kHjeGIlNtDXBSr9Imt95U191vmzOWZU",
+          "anchor": "v-1-kHjeGIlNtDXBSr9Imt95U191vmzOWZU",
+          "href": "s6.html#v-1-kHjeGIlNtDXBSr9Imt95U191vmzOWZU"
+        },
+        {
+          "number": 8,
+          "title": "Debugging Your Code",
+          "id": "10D5h2O9ln5Ye971u1bgJ46-uBApXR8Ge",
+          "anchor": "v-10D5h2O9ln5Ye971u1bgJ46-uBApXR8Ge",
+          "href": "s6.html#v-10D5h2O9ln5Ye971u1bgJ46-uBApXR8Ge"
+        }
+      ]
+    },
+    {
+      "number": 7,
+      "title": "Data Handling File I O Collections and Web Interactions",
+      "page": "s7.html",
+      "videos": [
+        {
+          "number": 1,
+          "title": "File I-O",
+          "id": "10yULA8kqUV5yzU5hiUHl9fqV7go7dgdg",
+          "anchor": "v-10yULA8kqUV5yzU5hiUHl9fqV7go7dgdg",
+          "href": "s7.html#v-10yULA8kqUV5yzU5hiUHl9fqV7go7dgdg"
+        },
+        {
+          "number": 2,
+          "title": "Collections",
+          "id": "11YvFicU6-akb2x3-m2iHo-Xc1_uUu0cD",
+          "anchor": "v-11YvFicU6-akb2x3-m2iHo-Xc1_uUu0cD",
+          "href": "s7.html#v-11YvFicU6-akb2x3-m2iHo-Xc1_uUu0cD"
+        },
+        {
+          "number": 3,
+          "title": "Building a Deck of Cards",
+          "id": "11LUcBQXOKrPlHgCZBUzOgcdUt9P2w2xb",
+          "anchor": "v-11LUcBQXOKrPlHgCZBUzOgcdUt9P2w2xb",
+          "href": "s7.html#v-11LUcBQXOKrPlHgCZBUzOgcdUt9P2w2xb"
+        },
+        {
+          "number": 4,
+          "title": "Working with the Internet",
+          "id": "11UvJSr1KKCECp_QI4zqw9C6xOa6T6H8m",
+          "anchor": "v-11UvJSr1KKCECp_QI4zqw9C6xOa6T6H8m",
+          "href": "s7.html#v-11UvJSr1KKCECp_QI4zqw9C6xOa6T6H8m"
+        }
+      ]
+    },
+    {
+      "number": 8,
+      "title": "Asynchronous & Parallel Programming Concepts",
+      "page": "s8.html",
+      "videos": [
+        {
+          "number": 1,
+          "title": "Async - Await & Parallel Programming",
+          "id": "10T0SkOXTHiqXnEziQzPJF22YQ6NxwjH9",
+          "anchor": "v-10T0SkOXTHiqXnEziQzPJF22YQ6NxwjH9",
+          "href": "s8.html#v-10T0SkOXTHiqXnEziQzPJF22YQ6NxwjH9"
+        },
+        {
+          "number": 2,
+          "title": "Building a Port Scanner",
+          "id": "10tl9xsfoVmJpmDBgA470DxZh57RkkMYt",
+          "anchor": "v-10tl9xsfoVmJpmDBgA470DxZh57RkkMYt",
+          "href": "s8.html#v-10tl9xsfoVmJpmDBgA470DxZh57RkkMYt"
+        }
+      ]
+    },
+    {
+      "number": 9,
+      "title": "Capstone Project - Brute-Force Password Cracker",
+      "page": "s9.html",
+      "videos": [
+        {
+          "number": 1,
+          "title": "Capstone Overview & Requirements",
+          "id": "105xbDu_3RSP5sILLg4unfDD2YifLop8s",
+          "anchor": "v-105xbDu_3RSP5sILLg4unfDD2YifLop8s",
+          "href": "s9.html#v-105xbDu_3RSP5sILLg4unfDD2YifLop8s"
+        },
+        {
+          "number": 2,
+          "title": "Capstone Solution - Part 1",
+          "id": "1-E-0ak6T4G5iZI9Vg5ZRPgvMEKvFJerh",
+          "anchor": "v-1-E-0ak6T4G5iZI9Vg5ZRPgvMEKvFJerh",
+          "href": "s9.html#v-1-E-0ak6T4G5iZI9Vg5ZRPgvMEKvFJerh"
+        },
+        {
+          "number": 3,
+          "title": "Capstone Solution - Part 2",
+          "id": "10e-NVksLf5g0dDlrItF13LzNmmQuGr85",
+          "anchor": "v-10e-NVksLf5g0dDlrItF13LzNmmQuGr85",
+          "href": "s9.html#v-10e-NVksLf5g0dDlrItF13LzNmmQuGr85"
+        }
+      ]
+    },
+    {
+      "number": 10,
+      "title": "Wrap Up",
+      "page": "s10.html",
+      "videos": [
+        {
+          "number": 1,
+          "title": "Recap",
+          "id": "10KVBrftik1MMEmvmlseUfn5ZNEetkv-1",
+          "anchor": "v-10KVBrftik1MMEmvmlseUfn5ZNEetkv-1",
+          "href": "s10.html#v-10KVBrftik1MMEmvmlseUfn5ZNEetkv-1"
+        },
+        {
+          "number": 2,
+          "title": "Thank you & Dedication",
+          "id": "11Vs84KyqzUodFJZgBkmekCg2wQLtSUB2",
+          "anchor": "v-11Vs84KyqzUodFJZgBkmekCg2wQLtSUB2",
+          "href": "s10.html#v-11Vs84KyqzUodFJZgBkmekCg2wQLtSUB2"
+        }
+      ]
+    }
+  ]
+}
